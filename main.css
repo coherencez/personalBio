@@ -1,0 +1,13 @@
+header {
+	display: block;
+}
+
+nav ul {
+	list-style: none;
+	text-decoration: none;
+	float: left;
+}
+
+nav ul li {
+	display: block;
+}
